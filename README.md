@@ -1,2 +1,2 @@
-# Automatic-Image-Stitching-Using-Feature-Based-Method	## Welcome to GitHub Pages
+# Automatic-Image-Stitching-Using-Feature-Based-Method
 - Final Year Project	
